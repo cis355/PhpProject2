@@ -10,7 +10,7 @@
         <a href="https://www.startutorial.com/articles/view/php-crud-tutorial-part-1" target="_blank">Tutorial</a>
         <div class="container">
             <div class="row">
-                <h3>PHP CRUD Grid</h3>
+                <h3>Customers</h3>
             </div>
             <div class="row">
                 <p>
